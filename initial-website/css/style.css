@@ -6,7 +6,22 @@ selector {
 */
 
 p {
-  color: red;
   display:none;
+}
+
+#red {
+  color: red;
+}
+
+#orange {
+  color: orange;
+}
+
+#yellow {
+  color: yellow;
+}
+
+#green {
+  color: green;
 }
 
