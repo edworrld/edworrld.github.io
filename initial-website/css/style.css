@@ -5,23 +5,23 @@ selector {
 
 */
 
-p {
-  display:none;
-}
-
 #red {
   color: red;
+  display:none;
 }
 
 #orange {
   color: orange;
+  display:none;
 }
 
 #yellow {
   color: yellow;
+  display:none;
 }
 
 #green {
   color: green;
+  display:none;
 }
 
