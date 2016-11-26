@@ -5,7 +5,7 @@ $(function(){
   //$('p:first').attr('class', 'not-lead');
 
   // IMAGE SWAP
-  //$('img').attr('src', 'img1.JPG');
+  //$('img').attr('src', 'img2.JPG');
   // $('img').delay(400).fadeOut(500, function(){
   //   $(this).attr('src', 'img2.jpg').fadeIn(600);
   // });
