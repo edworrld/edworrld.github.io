@@ -7,7 +7,7 @@ $(function(){
   // IMAGE SWAP
   //$('img').attr('src', 'img2.jpg');
   // $('img').delay(400).fadeOut(500, function(){
-  //   $(this).attr('src', 'img2.jpg').fadeIn(500);
+  //   $(this).attr('src', 'img2.jpg').fadeIn(600);
   // });
 
   // CLASS METHODS
